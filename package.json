@@ -1,5 +1,5 @@
 {
-  "name": "pigeon-cluster",
+  "name": "pigeon-cluster-v2",
   "version": "0.0.6",
   "description": "A pigeon-maps component that clusters your markers",
   "jsnext:main": "src/index.js",
@@ -57,8 +57,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com:amiiit/pigeon-cluster.git"
+    "url": "github.com:manzgoeggel/pigeon-maps-cluster.git"
   },
-  "author": "Amit Jakubowicz <jakubowicz.amit@gmail.com>",
+  "author": "Manzgoeggel",
   "license": "MIT"
 }
